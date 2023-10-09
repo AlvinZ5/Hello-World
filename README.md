@@ -44,7 +44,7 @@ This Project includes the following files:
 
 - `New cleaned model without Y Data Mining Dataset.rattle` : File to have the final results
 - `Data Mining Dataset.csv` : Dataset to run the rattle\
-_- URL to the CSV file: [Kaggle](https://www.kaggle.com/datasets/arpan129/insurance-fraud-detection)
+  -URL to the CSV file: [Kaggle](https://www.kaggle.com/datasets/arpan129/insurance-fraud-detection)
 
 
 ## **Additional Documentation**

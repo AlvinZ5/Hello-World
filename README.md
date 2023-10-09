@@ -1,7 +1,7 @@
 Welcome to my GitHub profile! I'm passionate about Data Analytics and Data Visualization, and this space is where I share my projects and contributions to the world of technology. Here I'll cover the projects I've worked on, including the project title, description, coding language used for the project, files used, additional documentation, and versioning. Feel free to explore, collaborate, and learn together with me as we navigate the exciting world of coding and innovation.
 
 # **Project Title**
-Water Softner System Trend Analysis
+Water Softner System Trend Analysis/n
 Key Attributes that Impact Wine Quality
 Performance of Electric Car and Registration in Norway
 Fraud In Auto Insurance

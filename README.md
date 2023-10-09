@@ -1,11 +1,12 @@
 Welcome to my GitHub profile! I'm passionate about Data Analytics and Data Visualization, and this space is where I share my projects and contributions to the world of technology. Here I'll cover the projects I've worked on, including the project title, description, coding language used for the project, files used, additional documentation, and versioning. Feel free to explore, collaborate, and learn together with me as we navigate the exciting world of coding and innovation.
 
 # Table of Contents
-1. [Description](#description)
-2. [How to Run Program](#how-to-run-program)
-3. [Files Used](#files-used)
-4. [Additional Documentation](#additional-documentation)
-5. [Versioning](#versioning)
+1. [Project Title](#Project-Title)
+2. [Description](#description)
+3. [How to Run Program](#how-to-run-program)
+4. [Files Used](#files-used)
+5. [Additional Documentation](#additional-documentation)
+6. [Versioning](#versioning)
 
 
 ## **Project Title**

@@ -33,8 +33,8 @@ Description for Fraud In Auto Insurance
 ## **How to Run Program**
 Here shows how would run the program and what files need to be available:\
 *New cleaned model without Y Data Mining Dataset*\
-    - New cleaned model without Y Data Mining Dataset.rattle\
-    - filename1.csv
+- `New cleaned model without Y Data Mining Dataset.rattle` \
+- filename1.csv
 
 
 ## **Files Used**

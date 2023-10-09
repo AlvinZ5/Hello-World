@@ -32,18 +32,19 @@ Description for Fraud In Auto Insurance
 
 ## **How to Run Program**
 Here shows how would run the program and what files need to be available:\
-*New cleaned model without Y Data Mining Dataset*\
-- `New cleaned model without Y Data Mining Dataset.rattle` \
-- filename1.csv
+*New cleaned model without Y Data Mining Dataset*
+1. Need to have R Studio
+2. Open Rattle in R Studio
+3. Load New cleaned model without Y Data Mining Dataset.rattle
+4. To check the graphs/results
 
 
 ## **Files Used**
-The repository includes the following files:
+This Project includes the following files:
 
-- `hello.py`: Python implementation.
-- `hello.java`: Java implementation.
-- `hello.js`: JavaScript implementation.
-- `README.md`: This documentation file.
+- `New cleaned model without Y Data Mining Dataset.rattle` : File to have the final results
+- `Data Mining Dataset.csv` : Dataset to run the rattle
+_- URL to the CSV file: 
 
 ## **Additional Documentation**
 For more information about each programming language used in this project, you can refer to their respective documentation:

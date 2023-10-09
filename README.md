@@ -35,26 +35,22 @@ Here shows how would run the program and what files need to be available:\
 *New cleaned model without Y Data Mining Dataset*
 1. Need to have R Studio
 2. Open Rattle in R Studio
-3. Load New cleaned model without Y Data Mining Dataset.rattle
+3. Load CSV file to do analysis
 4. To check the graphs/results
 
 
 ## **Files Used**
 This Project includes the following files:
 
-- `New cleaned model without Y Data Mining Dataset.rattle` : File to have the final results
+- `New cleaned model without Y Data Mining Dataset.rattle` : File to have the final results (where i made)
 - `Data Mining Dataset.csv` : Dataset to run the rattle\
   -URL to the CSV file: [Kaggle](https://www.kaggle.com/datasets/arpan129/insurance-fraud-detection)
 
 
 ## **Additional Documentation**
-For more information about each programming language used in this project, you can refer to their respective documentation:
-
-- [Python Documentation](https://docs.python.org/3/)
-- [Java Documentation](https://docs.oracle.com/en/java/)
-- [JavaScript MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+No additional documentation at this time.
 
 ## **Versioning**
-This project utilizes Git for version control. You can explore the different versions of the "Hello-World" code in the GitHub repository's [commit history](https://github.com/yourusername/hello-world/commits).
+No special Versioning at this time.
 
 Feel free to experiment, learn, and contribute to this "Hello-World" repository!

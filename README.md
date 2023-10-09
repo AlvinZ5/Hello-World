@@ -22,28 +22,22 @@ Welcome to my GitHub profile! I'm passionate about Data Analytics and Data Visua
 
 
 ## **Description**
+
+Description for Water Softner System Trend Analysis
+* Limitation of authority
+
 Description for Fraud In Auto Insurance
 * Auto insurance fraud is a problem we need to pay attention to, so our group's business goal for this report is to help auto insurance companies identify the features related to auto insurance fraud and provide a good, predictable fraud model to reduce the financial loss of auto insurance companies and indirectly help them grow their customer’s base. Our group analyzed data from previous auto insurance fraud to achieve our business goal. Our data mining goal is to predict whether old customers or new customers will have the auto insurance fraud issue in future. We will ultimately decide which model will be the best predictive model for auto insurance fraud.
 
 
 ## **How to Run Program**
-To run the "Hello-World" program, follow these steps:
+Here shows how would run the program and what files need to be available:
+New cleaned model without Y Data Mining Dataset/
+└── 
+    │── new cleaned model without Y Data Mining Dataset.rattle
+    │── filename1.csv
+    │── examples.html
 
-1. **Clone the Repository**
-   - Open your terminal or command prompt.
-   - Navigate to the directory where you want to clone the repository.
-   - Run the following command:
-     ```shell
-     git clone https://github.com/yourusername/hello-world.git
-     ```
-
-2. **Choose a Programming Language**
-   - Inside the repository, you'll find directories for various programming languages (e.g., `python`, `java`, `javascript`).
-   - Navigate to the directory corresponding to your chosen programming language.
-
-3. **Run the Program**
-   - Use an appropriate command or IDE for the selected language to execute the program.
-   - The program will display the "Hello, World!" message.
 
 ## **Files Used**
 The repository includes the following files:

@@ -42,7 +42,7 @@ Here shows how would run the program and what files need to be available:\
 ## **Files Used**
 This Project includes the following files:
 
-- `New cleaned model without Y Data Mining Dataset.rattle` : File to have the final results (where i made)
+- `New cleaned model without Y Data Mining Dataset.rattle` : File to have the final results (which i made)
 - `Data Mining Dataset.csv` : Dataset to run the rattle\
   -URL to the CSV file: [Kaggle](https://www.kaggle.com/datasets/arpan129/insurance-fraud-detection)
 

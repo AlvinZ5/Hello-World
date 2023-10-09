@@ -33,7 +33,8 @@ Description for Fraud In Auto Insurance
 ## **How to Run Program**
 Here shows how would run the program and what files need to be available:
 
-\*New cleaned model without Y Data Mining Dataset*
+\
+*New cleaned model without Y Data Mining Dataset*
 1. Need to have R Studio
 2. Open Rattle in R Studio
 3. Load CSV file to do analysis

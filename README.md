@@ -17,12 +17,14 @@ Welcome to my GitHub profile! I'm passionate about Data Analytics and Data Visua
 5. The Truth of People's Decision in Speed Dating
 6. Airbnb Satisfaction Analysis
 7. COVID-19 Analysis for the United States of America
-8. EMBARC Interpretation Report
+8. EMBARC Interpretation Sector Report
 9. Citizenship Performance Helping Behavior
 
 
 ## **Description**
-This "Hello-World" repository contains simple introductory programs in multiple programming languages, each displaying the classic "Hello, World!" message. It's a beginner-friendly starting point for learning programming languages and their syntax.
+Description for Fraud In Auto Insurance
+* Auto insurance fraud is a problem we need to pay attention to, so our group's business goal for this report is to help auto insurance companies identify the features related to auto insurance fraud and provide a good, predictable fraud model to reduce the financial loss of auto insurance companies and indirectly help them grow their customer’s base. Our group analyzed data from previous auto insurance fraud to achieve our business goal. Our data mining goal is to predict whether old customers or new customers will have the auto insurance fraud issue in future. We will ultimately decide which model will be the best predictive model for auto insurance fraud.
+
 
 ## **How to Run Program**
 To run the "Hello-World" program, follow these steps:

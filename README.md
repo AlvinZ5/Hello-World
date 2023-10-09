@@ -1,6 +1,14 @@
 Welcome to my GitHub profile! I'm passionate about Data Analytics and Data Visualization, and this space is where I share my projects and contributions to the world of technology. Here I'll cover the projects I've worked on, including the project title, description, coding language used for the project, files used, additional documentation, and versioning. Feel free to explore, collaborate, and learn together with me as we navigate the exciting world of coding and innovation.
 
-# **Project Title**
+# Table of Contents
+1. [Description](#description)
+2. [How to Run Program](#how-to-run-program)
+3. [Files Used](#files-used)
+4. [Additional Documentation](#additional-documentation)
+5. [Versioning](#versioning)
+
+
+## **Project Title**
 1. Water Softner System Trend Analysis
 2. Key Attributes that Impact Wine Quality
 3. Performance of Electric Car and Registration in Norway
@@ -11,13 +19,6 @@ Welcome to my GitHub profile! I'm passionate about Data Analytics and Data Visua
 8. EMBARC Interpretation Report
 9. Citizenship Performance Helping Behavior
 
-
-## Table of Contents
-1. [Description](#description)
-2. [How to Run Program](#how-to-run-program)
-3. [Files Used](#files-used)
-4. [Additional Documentation](#additional-documentation)
-5. [Versioning](#versioning)
 
 ## **Description**
 This "Hello-World" repository contains simple introductory programs in multiple programming languages, each displaying the classic "Hello, World!" message. It's a beginner-friendly starting point for learning programming languages and their syntax.
